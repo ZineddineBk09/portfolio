@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/e-commerce_app.png",
+      "title": "E-commerce app",
+      "description": "NextJS, ReactJS, Tailwind, Next Auth, MongoDB",
+      "url": "https://pfe-orpin.vercel.app/"
+    },
+    {
+      "cover": "/portfolio/meeeteor.png",
+      "title": "Online meeting app",
+      "description": "NodeJS, EJS, JS, CSS3, MongoDB",
+      "url": "https://github.com/ZineddineBk09/Meeeteor"
+    },
+    {
+      "cover": "/portfolio/spotify.png",
+      "title": "Spotify clone app",
+      "description": "NextJS, ReactJS, Tailwind, Spotify API",
+      "url": "https://github.com/ZineddineBk09/Spotify"
+    },
+    {
+      "cover": "/portfolio/face_recognizer.jpeg",
+      "title": "Face recognition app",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    }
+  ]
+}
