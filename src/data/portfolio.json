@@ -4,7 +4,7 @@
       "cover": "/portfolio/e-commerce_app.png",
       "title": "E-commerce app",
       "description": "NextJS, ReactJS, Tailwind, Next Auth, MongoDB",
-      "url": "https://pfe-orpin.vercel.app/"
+      "url": "https://kodyani.herokuapp.com/"
     },
     {
       "cover": "/portfolio/meeeteor.png",
@@ -22,7 +22,7 @@
       "cover": "/portfolio/face_recognizer.jpeg",
       "title": "Face recognition app",
       "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "url": "https://github.com/ZineddineBk09/"
     }
   ]
 }

@@ -35,9 +35,10 @@ const About = () => {
           </h1>
 
           <p>
-            I'm a 20 years old very ambitious full-stack developer and currently
-            a Computer Science student (with bashelor degree) at the university
-            of science and technology Houari Boumediene in algeria.
+            I'm a very ambitious 21-year-old full-stack developer and currently
+            a computer science student (with a bachelor's degree) at university
+            of science and technology Houari Boumediene in Algeria and intern at
+            Business Leads Algeria and Global Opportunities.
           </p>
           <p align="LEFT">
             I dont have much of a professional work experience all tought i
@@ -48,7 +49,7 @@ const About = () => {
           <p align="LEFT">
             I'm the type of person who is always looking to improve myself,
             that's why I've worked in many part-time non-IT jobs at least to
-            learn essential skills such as selling, talking to people, trading,
+            learn some essential soft skills such as selling, talking to people, trading,
             ... .<br />
             Some of the jobs I've worked at : Home appliances salesperson, Home
             decoration products salesperson, and Construction products
@@ -61,7 +62,7 @@ const About = () => {
           <p>
             If I need to define myself in one sentence that would be a family
             person, hard worker, a sports addict, AI enthusiast, and
-            tech-obsessed!!!
+            tech-obsessed !
           </p>
         </div>
 
