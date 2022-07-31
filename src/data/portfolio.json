@@ -15,13 +15,13 @@
     {
       "cover": "/portfolio/spotify.png",
       "title": "Spotify clone app",
-      "description": "NextJS, ReactJS, Tailwind, Spotify API",
+      "description": "NextJS, Tailwind, Spotify API",
       "url": "https://github.com/ZineddineBk09/Spotify"
     },
     {
       "cover": "/portfolio/face_recognizer.jpeg",
       "title": "Face recognition app",
-      "description": "React, JSX, Tailwind, Jest",
+      "description": "Python3",
       "url": "https://github.com/ZineddineBk09/"
     }
   ]
